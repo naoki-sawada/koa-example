@@ -2,7 +2,7 @@
   "name": "koa-example",
   "version": "1.0.0",
   "main": "app.js",
-  "license": "MIT",
+  "license": "The Unlicense",
   "scripts": {
     "dev": "nodemon app.js",
     "start": "node src/app.js"
