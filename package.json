@@ -7,7 +7,7 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "dev": "nodemon app.js",
+    "dev": "node --watch app.js",
     "start": "node app.js"
   },
   "dependencies": {
@@ -17,8 +17,5 @@
     "koa-bearer-token": "^1.0.0",
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^10.0.0"
-  },
-  "devDependencies": {
-    "nodemon": "^1.18.6"
   }
 }
