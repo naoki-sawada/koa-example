@@ -1,7 +1,7 @@
 const Koa = require('koa');
 const Router = require('koa-router');
 const bodyParser = require('koa-bodyparser');
-const bearerToken = require('koa-bearer-token');
+const { bearerToken } = require('koa-bearer-token');
 const cors = require('@koa/cors');
 
 const app = new Koa();
