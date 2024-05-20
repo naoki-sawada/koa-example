@@ -15,7 +15,7 @@
 
 ## Requirement
 
-* Node.js v8
+* Node.js v20 or later
 
 ## Install
 
@@ -41,4 +41,4 @@ Open an [issue](https://github.com/naoki-sawada/koa-example/issues/new) or submi
 
 ## License
 
-[The Unlicense](UNLICENSE).
+[MIT](LICENSE).
