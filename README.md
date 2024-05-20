@@ -41,4 +41,4 @@ Open an [issue](https://github.com/naoki-sawada/koa-example/issues/new) or submi
 
 ## License
 
-[The Unlicense](UNLICENSE).
+[MIT](LICENSE).
