@@ -7,7 +7,7 @@ const cors = require('@koa/cors');
 const app = new Koa();
 const router = new Router();
 
-router.get('/', (ctx, next) => {
+router.post('/', (ctx, next) => {
   const { name } = ctx.request.body;
   ctx.body = { text: `Welcome! ${name}` };
 });
