@@ -15,7 +15,7 @@
 
 ## Requirement
 
-* Node.js v8
+* Node.js v20 or later
 
 ## Install
 
